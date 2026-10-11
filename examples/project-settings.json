@@ -1,0 +1,23 @@
+{
+  "extraKnownMarketplaces": {
+    "spindoctor-qwerty-code": {
+      "source": {
+        "source": "github",
+        "repo": "LKVexa/spindoctor-qwerty-claude-code"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "spindoctor-qwerty-code@spindoctor-qwerty-code": true
+  },
+  "permissions": {
+    "allow": [
+      "mcp__plugin_spindoctor-qwerty-code_spindoctor-qwerty__spindoctor_functions",
+      "mcp__plugin_spindoctor-qwerty-code_spindoctor-qwerty__spindoctor_list_presets",
+      "mcp__plugin_spindoctor-qwerty-code_spindoctor-qwerty__spindoctor_report",
+      "mcp__plugin_spindoctor-qwerty-code_spindoctor-qwerty__spindoctor_run_script",
+      "mcp__plugin_spindoctor-qwerty-code_spindoctor-qwerty__spindoctor_run_preset",
+      "mcp__plugin_spindoctor-qwerty-code_spindoctor-qwerty__spindoctor_test_theory"
+    ]
+  }
+}

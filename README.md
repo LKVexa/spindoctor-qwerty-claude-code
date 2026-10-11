@@ -14,6 +14,7 @@ Python 3.8+ only, NumPy optional, no network, no installs.
 | --- | --- |
 | Claude Code in a terminal or IDE, and want slash commands, a subagent and a CLI that works even without the MCP server | **this repo**, `spindoctor-qwerty-claude-code` |
 | claude.ai chat or Cowork (upload a `.plugin` file), or one plugin that works across claude.ai, Cowork and Claude Code | [spindoctor-qwerty-claude](https://github.com/LKVexa/spindoctor-qwerty-claude) |
+| Claude Desktop chat, tools only, one-click install (Settings > Extensions, `.mcpb`) | [spindoctor-qwerty-claude-desktop](https://github.com/LKVexa/spindoctor-qwerty-claude-desktop) |
 
 Both bundle the same engine and give the same results. Install **one** of them in Claude Code: both start the same six tools,
 so having both enabled just duplicates them. The plugins have different names (`spindoctor-qwerty-code` here,

@@ -1,0 +1,24 @@
+{
+  "name": "spindoctor-qwerty-code",
+  "displayName": "SpinDoctor Qwerty (Claude Code)",
+  "version": "1.1.0",
+  "description": "Claude Code plugin for the SpinDoctor 3.1.2 quantum-circuit SIMULATOR: CLI-first slash commands (run, script, preset, folder, report, functions, theory), a helper agent and a local MCP server; 1-298 logical qubits, 241 presets, TXT/PDF/JSON/CSV reports. Classical FP64 simulation, not a quantum computer.",
+  "author": {
+    "name": "RUSSELL PHILIP SMITHSON",
+    "email": "russellsmithson77@outlook.com",
+    "url": "https://github.com/LKVexa"
+  },
+  "homepage": "https://github.com/LKVexa/spindoctor-qwerty-claude-code",
+  "repository": "https://github.com/LKVexa/spindoctor-qwerty-claude-code",
+  "license": "GPL-3.0-or-later",
+  "keywords": [
+    "quantum",
+    "quantum-circuit",
+    "simulator",
+    "spindoctor",
+    "claude-code",
+    "cli",
+    "mcp",
+    "qwerty"
+  ]
+}
